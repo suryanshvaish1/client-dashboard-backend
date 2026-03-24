@@ -111,7 +111,7 @@ npm run dev
 
 ---
 
-## 🔌 Real-Time (Socket.io)
+##  Real-Time (Socket.io)
 
 * Server initializes Socket.io
 * On task update:
